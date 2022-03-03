@@ -22,7 +22,7 @@ IF OBJECT_ID('Team') is not null drop table Team
 
 --Drop any tables with data in them
 IF OBJECT_ID('Game') is not null drop table Game
-
+ 
 --Drop any tables with data in them
 IF OBJECT_ID('Stat') is not null drop table Stat
 
